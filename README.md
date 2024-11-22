@@ -22,7 +22,7 @@ The CICIDS2017 dataset was chosen for its high-quality representation of real-wo
 #### **Key Highlights**
 - **Model Architecture**: The MLP architecture is tailored for binary classification, focusing on scalability and efficiency for high-dimensional network data.
 - **Performance Metric**: Achieves an F1 Score of 0.98, demonstrating excellent precision and recall in detecting intrusions.
-- **Features**: Preprocessed network flow data, emphasizing key metrics such as source/destination IPs, ports, protocols, and timestamps.
+- **Features**: Preprocessed network flow data.
 
 #### **Why This Project?**
 - Bridges the gap in reliable performance evaluation for anomaly-based intrusion detection.
@@ -30,7 +30,7 @@ The CICIDS2017 dataset was chosen for its high-quality representation of real-wo
 - Utilizes a dataset designed to resemble real-world network environments, ensuring practical relevance.
 
 #### **How to Use**
-1. **Dataset**: Download the CICIDS2017 dataset from [here](https://www.unb.ca/cic/datasets/ids-2017.html).
+1. **Dataset**: Download the CICIDS2017 dataset from [here](https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset).
 2. **Preprocessing**: Follow the preprocessing steps to extract relevant features and labels.
 3. **Model Training**: Train the MLP model using the PyTorch implementation provided in this repository.
 4. **Evaluation**: Validate the model’s performance using the provided scripts and verify the F1 Score of 0.98.
