@@ -41,8 +41,8 @@ The CICIDS2017 dataset was chosen for its high-quality representation of real-wo
 Clone this repository and follow the detailed instructions in the [README.md](README.md) to set up the environment and run the model.
 
 ```
-git clone https://github.com/DarinaVerk/CIC-IDS_2017_MLP_PyTorch
-cd CIC-IDS_2017_MLP_PyTorch
+git clone https://github.com/darinaverk/CIC-IDS-2017-MLP-PyTorch
+cd CIC-IDS-2017-MLP-PyTorch
 ```
 
 #### **Contributors**
